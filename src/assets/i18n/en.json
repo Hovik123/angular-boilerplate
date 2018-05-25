@@ -1,0 +1,21 @@
+{
+  "message": {
+    "err.invalid.credentials": "User ID or password is incorrect."
+  },
+  "err": {
+    "dobRequired": "Date of birth is required.",
+    "_email_must_be_unique": "Email is unique.",
+    "email": {
+      "unique": "Email is unique.",
+      "not_valid": "Email is invalid."
+    },
+    "_phone_must_be_unique": "Mobile number is unique.",
+    "phone": {
+      "unique": "Mobile number is unique.",
+      "not_valid": "Mobile number is invalid."
+    }
+  },
+  "err_email_must_be_unique": "Email is unique.",
+  "err_phone_must_be_unique": "Mobile number is unique.",
+  "err_phone_not_valid" : "Invalid phone number."
+}
